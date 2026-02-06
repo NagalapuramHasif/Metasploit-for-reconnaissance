@@ -111,4 +111,4 @@ set BLANK_PASSWORDS true
 ![image](https://github.com/Sanjay-2610/Metasploit-for-reconnaissance/assets/91368803/e4c70a39-2f8f-4d7c-99fe-745115003ac8)
 
 #### RESULT:
-The Metasploit framework for reconnaissance is  examined successfully.
+The Metasploit framework for reconnaissance is  examined successfully..
